@@ -1,0 +1,27 @@
+{
+    "name": "petpfps",
+    "version": "4.0.0",
+    "description": "An API that provides random animals images for default profile pictures",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/aweirdwhale/basicPetProfilePicture.git"
+    },
+    "keywords": [
+      "animal",
+      "API",
+      "profile",
+      "pictures"
+    ],
+    "author": "Aweirwhale",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/aweirdwhale/basicPetProfilePicture/issues"
+    },
+    "homepage": "https://github.com/aweirdwhale/basicPetProfilePicture#readme"
+  }
+  
